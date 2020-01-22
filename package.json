@@ -6,7 +6,7 @@
   "homepage": "https://shaaheed.github.io/sales-demo/"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"deploy": "gh-pages -d build"
+	"deploy": "gh-pages -d build",
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shaaheed/sales-demo/issues"
-  },
-  "homepage": "https://github.com/shaaheed/sales-demo#readme"
+  }
 }
