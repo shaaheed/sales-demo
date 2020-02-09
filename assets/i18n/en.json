@@ -71,5 +71,13 @@
     "bills": "Bills",
     "vendors": "Vendors",
     "search": "Search",
-    "new.account": "New account"
+    "new.account": "New account",
+    "payment.date": "Payment date",
+    "payment.method": "Payment method",
+    "payment.account": "Payment account",
+    "memo": "Memo",
+    "accounting": "Accounting",
+    "tax": "Tax",
+    "chart.of.account": "Chart of account",
+    "transaction": "Transaction"
 }
